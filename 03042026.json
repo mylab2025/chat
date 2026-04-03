@@ -8,7 +8,7 @@
     "WindowsUser": "k64121947",
     "MachineId": "8R17B44",
     "Edited": false,
-    "IsSynced": false
+    "IsSynced": true
   },
   {
     "Id": "MSG_03042026_002",
@@ -19,6 +19,50 @@
     "WindowsUser": "k64121947",
     "MachineId": "8R17B44",
     "Edited": false,
-    "IsSynced": false
-  }
+    "IsSynced": true
+  },
+   {
+    "Id": "MSG_03042026_003",
+    "Message": "Hi Just checking whether its working or not.....?",
+    "Timestamp": "2026-04-03T11:12:54.1910027+05:30",
+    "UserId": "Machine1",
+    "GithubUser": "mylab2025",
+    "WindowsUser": "User1",
+    "MachineId": "Machine1",
+    "Edited": false,
+    "IsSynced": true
+  },
+   {
+    "Id": "MSG_03042026_004",
+    "Message": "Hi Just checking whether its working or not.....?",
+    "Timestamp": "2026-04-03T11:1:54.1910027+05:30",
+    "UserId": "Machine2",
+    "GithubUser": "mylab2025",
+    "WindowsUser": "User2",
+    "MachineId": "Machine2",
+    "Edited": false,
+    "IsSynced": true
+  },
+   {
+    "Id": "MSG_03042026_005",
+    "Message": "Hi Just checking whether its working or not.....?",
+    "Timestamp": "2026-04-03T11:2:54.1910027+05:30",
+    "UserId": "Machine3",
+    "GithubUser": "mylab2025",
+    "WindowsUser": "User3",
+    "MachineId": "Machine3",
+    "Edited": false,
+    "IsSynced": true
+  },
+   {
+    "Id": "MSG_03042026_006",
+    "Message": "Hi Just checking whether its working or not.....?",
+    "Timestamp": "2026-04-03T11:3:54.1910027+05:30",
+    "UserId": "Machine4",
+    "GithubUser": "mylab2025",
+    "WindowsUser": "User4",
+    "MachineId": "Machine4",
+    "Edited": false,
+    "IsSynced": true
+  }  
 ]
