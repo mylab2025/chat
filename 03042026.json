@@ -74,7 +74,7 @@
     "WindowsUser": "k64121947",
     "MachineId": "8R17B44",
     "Edited": false,
-    "IsSynced": false
+    "IsSynced": true
   },
   {
     "Id": "MSG_03042026_008",
@@ -85,17 +85,6 @@
     "WindowsUser": "k64121947",
     "MachineId": "8R17B44",
     "Edited": false,
-    "IsSynced": false
-  },
-  {
-    "Id": "MSG_03042026_009",
-    "Message": "Brooooo Its getting betterrrrrrr",
-    "Timestamp": "2026-04-03T13:21:50.2062103\u002B05:30",
-    "UserId": "8R17B44",
-    "GithubUser": "mylab2025",
-    "WindowsUser": "k64121947",
-    "MachineId": "8R17B44",
-    "Edited": false,
-    "IsSynced": false
+    "IsSynced": true
   }
 ]
