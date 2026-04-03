@@ -152,5 +152,16 @@
     "MachineId": "8R17B44",
     "Edited": false,
     "IsSynced": true
+  },
+  {
+    "Id": "MSG_03042026_015",
+    "Message": "Hello Support Team, Randomly iam getting 'error in fetching file' from this morning tried restart of the app, Does it because of the schedule maintanace of FCC database? if yes iam the only person gettin this issue not others. Pls do the needfull, Will appriciate your quick response in advance",
+    "Timestamp": "2026-04-03T15:45:20.7926608\u002B05:30",
+    "UserId": "NRZ8Q15Y",
+    "GithubUser": "FCC",
+    "WindowsUser": "Mikko Verpi La",
+    "MachineId": "NRZ8Q15Y",
+    "Edited": false,
+    "IsSynced": false
   }
 ]
