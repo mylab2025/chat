@@ -162,7 +162,7 @@
     "WindowsUser": "Mikko Verpi La",
     "MachineId": "NRZ8Q15Y",
     "Edited": false,
-    "IsSynced": false
+    "IsSynced": true
   },
   {
     "Id": "MSG_03042026_016",
@@ -173,6 +173,6 @@
     "WindowsUser": "k64121947",
     "MachineId": "8R17B44",
     "Edited": false,
-    "IsSynced": false
+    "IsSynced": true
   }
 ]
