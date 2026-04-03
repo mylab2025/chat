@@ -130,5 +130,16 @@
     "MachineId": "8R17B44",
     "Edited": false,
     "IsSynced": true
+  },
+  {
+    "Id": "MSG_03042026_013",
+    "Message": "Access Granted to Machine ID: ABCD123 for Edit mode in BOM Window",
+    "Timestamp": "2026-04-03T15:28:58.9619348\u002B05:30",
+    "UserId": "Admin",
+    "GithubUser": "mylab2025",
+    "WindowsUser": "ADMIN",
+    "MachineId": "Admin",
+    "Edited": false,
+    "IsSynced": true
   }
 ]
