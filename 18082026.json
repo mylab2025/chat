@@ -9,16 +9,5 @@
     "MachineId": "8R17B44",
     "Edited": false,
     "IsSynced": true
-  },
-  {
-    "Id": "MSG_18082026_002",
-    "Message": "Hi @8R17B44, Thanks for the observation...This is known bug reported on earlier week... will ensure the fix in upcoming release",
-    "Timestamp": "2026-08-18T10:05:12.3921742\u002B05:30",
-    "UserId": "Support@Mylab2025",
-    "GithubUser": "mylab2025",
-    "WindowsUser": "Team24/7-157",
-    "MachineId": "Support@Mylab2025",
-    "Edited": false,
-    "IsSynced": false
   }
 ]
